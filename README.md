@@ -8,6 +8,10 @@ As a developer my web portfolio showcase my skills, knowledge and personality wi
 - functionality/features:
 
 - sitemaps:
+![Sitemap](/)
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 - screenshots:
 
