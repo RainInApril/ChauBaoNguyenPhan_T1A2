@@ -5,8 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <link rel="stylesheet" href="style.css"/>
-    <link rel="stylesheet" href="menu.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <link rel="stylesheet" href="css/menu.css"/>
+    <script src="https://kit.fontawesome.com/5b95cf954f.js" crossorigin="anonymous"></script>
+
     <title>Home</title>
 </head>
 
@@ -20,7 +22,7 @@
             <div>
               <ul>
                 <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About Me</a></li>
+                <li><a href="about.html">About</a></li>
                 <li><a href="projects.html">Projects</a></li>
                 <li><a href="blog.html">Blog</a></li>
                 <li><a href="contact.html">Contact</a></li>
@@ -36,11 +38,36 @@
     <header>
         <h1>Contact</h1>
     </header>
-  
-  
 
-</article>
+    <div class="contact-form">
+      <form action="action_page.php">
+    
+        <label for="fname">First Name</label>
+        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+    
+        <label for="lname">Last Name</label>
+        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+    
+        <label for="country">Country</label>
+        <select id="country" name="country">
+          <option value="australia">Australia</option>
+          <option value="canada">Canada</option>
+          <option value="usa">USA</option>
+        </select>
+    
+        <label for="subject">Subject</label>
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+    
+        <input type="submit" value="Submit">
+    
+      </form>
+    </div>
+
 <footer>
+
+    <a class="logo" href="https://www.linkedin.com/in/chau-bao-nguyen-phan/"><i class="fa-brands fa-linkedin-in fa-lg"></i></a>
+    <a class="logo" href="https://github.com/RainInApril"><i class="fa-brands fa-github fa-lg"></i></a>
+    <a class="logo" href="https://twitter.com/home"><i class="fa-brands fa-twitter fa-lg"></i></a>
     <p class="copyright">&copy; Chau Bao Nguyen Phan 2022</p>
 </footer>
 </body>
