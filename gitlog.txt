@@ -1,0 +1,35 @@
+commit fcc8b21cdd93646170d0ad948e4f429396802ea4
+Author: Chau Bao Nguyen Phan <chaubnphan@gmail.com>
+Date:   Sun Mar 6 18:34:09 2022 +1100
+
+    Finalised website and completed README.md
+
+commit b574e9b0e198cc00b8a6b35ea58d5fcf07ccad81
+Author: Chau Bao Nguyen Phan <chaubnphan@gmail.com>
+Date:   Sat Mar 5 23:20:50 2022 +1100
+
+    Completed website
+
+commit 7fd8b4465902ca07990967f9207d4cfb1e49bd96
+Author: Chau Bao Nguyen Phan <chaubnphan@gmail.com>
+Date:   Sat Mar 5 04:55:58 2022 +1100
+
+    New website started from scratch with 10 html & 2 css
+
+commit f61d09a918ea87887a18da2a4ebefa34f26adb8a
+Author: Chau Bao Nguyen Phan <chaubnphan@gmail.com>
+Date:   Thu Mar 3 12:50:12 2022 +1100
+
+    Updated all pages to almost complete
+
+commit 5aa99dc8404d43c62664e5859165373e468a7c4a
+Author: Chau Bao Nguyen Phan <chaubnphan@gmail.com>
+Date:   Wed Mar 2 00:39:22 2022 +1100
+
+    Created 5 HTML and 2 CSS files with functional hamburger menu navbar
+
+commit 4533d407ac6bb6ea9c811a4eb5cf8e1c33726928
+Author: Chau Bao Nguyen Phan <chaubnphan@gmail.com>
+Date:   Mon Feb 28 19:56:37 2022 +1100
+
+    Initial commit

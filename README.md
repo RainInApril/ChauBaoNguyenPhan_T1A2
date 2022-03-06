@@ -37,19 +37,20 @@ As a developer my web portfolio showcase my skills, knowledge and personality wi
 ![sitemap](docs/portfolio-website-sitemap.png)
 ## Portfolio website screenshots
 ### Home page
-![home-mobile](docs/home-mobile.jpg)
+![home-mobile](docs/home-mobile.jpeg)
 ### About page
-![about-top-mobile](docs/about-top-mobile.jpg)
-![about-bottom-mobile](docs/about-bottom-mobile.jpg)
-### Project page
-![projects-mobile](docs/projects-top-mobile.jpg)
+![about-top-mobile](docs/about-top-mobile.jpeg)
+![about-bottom-mobile](docs/about-bottom-mobile.jpeg)
+### Projects page
+![projects-top-mobile](docs/projects-top-mobile.jpeg)
+![projects-bottom-mobile](docs/projects-bottom-mobile.jpeg)
 ### Blog page
-![blog-top-mobile](docs/blog-top-mobile.jpg)
-![blog-bottom-mobile](docs/blog-bottom-mobile.jpg)
+![blog-top-mobile](docs/blog-top-mobile.jpeg)
+![blog-bottom-mobile](docs/blog-bottom-mobile.jpeg)
 ### Blog post page
-![blog-post-mobile](docs/blog-post-mobile.jpg)
+![blog-post-mobile](docs/blog-post-mobile.jpeg)
 ### Contact page
-![contact-page](docs/contact-mobile.jpg)
+![contact-page](docs/contact-mobile.jpeg)
 
 ## Target Audience
 Employers/recruiters/HR hiring managers/web developers looking to bring new talents to their organisation.
